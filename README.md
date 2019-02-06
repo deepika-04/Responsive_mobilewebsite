@@ -1,4 +1,4 @@
-#responsive mobilewebsite @credit Brad Traversey
+#responsive mobilewebsite @credit Brad Traversy
 
 Used:
 HTML5
